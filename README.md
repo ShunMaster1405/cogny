@@ -18,7 +18,7 @@ Visualiza tus hábitos de escritura y el crecimiento de tu base de datos.
 ![Estadísticas](assets/stats.png)
 
 ### Bóveda Segura
-Mantén protegida tu información sensible.
+Mantén protegida tu información sensible.  
 ![Bóveda](assets/boveda.png)
 
 ---
